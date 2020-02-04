@@ -60,7 +60,7 @@ public class PathSystem : MonoBehaviour
             if (transform.position == waypoints[0].position)
             {
                 _points = 0;                                                                                // Reset "_points".
-                _points = Time.time + waitingTimer;                                      // plus current game time to "waitingTimer". 
+                _timer = Time.time + waitingTimer;                                      // plus current game time to "waitingTimer". 
             }
         }
     }
