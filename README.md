@@ -5,4 +5,4 @@ A simple script for Unity that enables your GameObject to move from A - Z and ba
 <img src="preview.PNG">
 
 Source code is documented. 
-Will be documented in a later date.
+A guide will be written in a later date.
